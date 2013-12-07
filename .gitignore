@@ -1,0 +1,9 @@
+*.swp
+*.txt
+.DS_STORE
+*.dSYM
+compile
+regexp
+parse
+*~*
+.so
